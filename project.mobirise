@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CogentProc",
-    "currentPage": "privacy.html",
+    "currentPage": "staffing.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -65,7 +65,7 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "uniqCompNum": 135,
+    "uniqCompNum": 136,
     "versionPublish": "5.5.8",
     "google-analytics": "CogentProc\nBusiness Process Management (BPM)\nAPI as a Service\nStaffing Solutions\nConsulting\nAutomation\n\n",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
@@ -3703,6 +3703,26 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>\n                <b> CogentProc is Hiring!</b></p><p><b>SAP Consultant Position || Reference: #2990</b></p><p><b>Duties include: </b>Working with complex SAP HR and SuccessFactors integration solutions, configuring SAP HR Time Management with Time Evaluation, negative time management, and SAP Payroll. Providing SAP HR systems support and enhancement, covering SAP Payroll, SAP Time Management, Personnel Administration, and Organization Management. Working on cross-product/hybrid time management and payroll solutions, gathering requirements, and designing blueprints and solutions. Managing the entire system lifecycle from build and data conversion mock-up to dress rehearsal, cutover, and go-live, while also supporting applications through troubleshooting, upgrades, and Payroll Year-End changes. Additionally offering SuccessFactors support and refinement for Recruiting, Onboarding, and SF/SAP integrations using SFAPI and BIB with HCI and SAP/ADP interfaces. Designing testing solutions for parallel payroll to ensure process orchestration across hybrid implementations. \n</p><p>This position requires a master’s degree in Computer Science, Information Technology or related.\n</p><p>Work location: McKinney, TX\n</p><p>Apply: <a href=\"mailto:recruitment@cogentproc.com\" class=\"text-primary\">recruitment@cogentproc.com&nbsp;</a></p><p>Salary: $106,000\n</p><p>Reference: #2990\n</p><p><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "uwY436Xapw",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-3r"
         },
         {
           "alias": false,
